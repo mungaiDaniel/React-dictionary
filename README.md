@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# React-Dictionry
+
+This is a simple react application of dictionary integrated with material-ui.I have fetch the data form https://api.dictionaryapi.dev/api/v2/entries/<language>/<word> Api  
+
+## Technology Used
+
+- react.js
+- material-ui/core
+- material-ui/icons
+## Get started
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
